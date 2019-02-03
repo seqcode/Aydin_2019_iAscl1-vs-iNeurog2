@@ -1,0 +1,5 @@
+library(edgeR)
+args <- commandArgs(TRUE)
+raw <- read.delim(args[1], row.names="Region")
+y <- DGEList(raw)
+group <- factor(c("0","0","0","1","1","1","2","2"))

@@ -1,0 +1,6 @@
+Mazzoni EB+24hrDox(iAscl1.V5.TRE.Brn3a.HA) Brn3a.HA Ainv15(iAscl1.V5.TRE.Brn3a.HA);1;bowtie_unique	Signal	READDB	Brn3a.HA_iAscl1.iBrn3a_24hr	1
+Mazzoni EB+24hrDox(iAscl1.V5.TRE.Brn3a.HA) Brn3a.HA Ainv15(iAscl1.V5.TRE.Brn3a.HA);2;bowtie_unique	Signal	READDB	Brn3a.HA_iAscl1.iBrn3a_24hr	2
+Mazzoni EB+24hrDox(iNgn2.TRE.Brn3a.HA) Brn3a.HA Ainv15(iNgn2.TRE.Brn3a.HA);1;bowtie_unique	Signal	READDB	Brn3a.HA_iNgn2.iBrn3a_24hr	1
+Mazzoni EB+24hrDox(iNgn2.TRE.Brn3a.HA) Brn3a.HA Ainv15(iNgn2.TRE.Brn3a.HA);2;bowtie_unique	Signal	READDB	Brn3a.HA_iNgn2.iBrn3a_24hr	2
+Mazzoni EB+12hrDox(iAscl1.V5) Input Ainv15(iAscl1.V5);1;bowtie_unique	Control	READDB	Brn3a.HA_iAscl1.Brn3a_24hr
+Mazzoni EB+12hrDox(iFlag.Ngn2) Input Ainv15(iFlag.Ngn2);1;bowtie_unique	Control	READDB	Brn3a.HA_iNgn2.Brn3a_24hr

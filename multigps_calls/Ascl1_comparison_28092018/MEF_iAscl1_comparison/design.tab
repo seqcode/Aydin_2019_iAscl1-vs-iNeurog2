@@ -1,0 +1,6 @@
+Mazzoni EB+48hrDox(iAscl1.V5) Ascl1.ABCAM Ainv15(iAscl1.V5);1;bowtie_unique	Signal	READDB	EB+48hr_iA_Ascl1	1
+Mazzoni EB+48hrDox(iAscl1.V5) Ascl1.ABCAM Ainv15(iAscl1.V5);2;bowtie_unique	Signal	READDB	EB+48hr_iA_Ascl1	2
+Wernig MEF Ascl1 C57BL6;1;bowtie_unique	Signal	READDB	Wernig_Ascl1_+d2_MEF	1
+Mazzoni EB+12hrDox(iAscl1.V5) Input Ainv15(iAscl1.V5);1;bowtie_unique	Control	READDB	EB+48hr_iA_Ascl1
+Wernig MEF Input C57BL6;1;bowtie_unique	Control	READDB	Wernig_Ascl1_+d2_MEF	1
+

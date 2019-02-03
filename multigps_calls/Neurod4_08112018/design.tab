@@ -1,0 +1,3 @@
+Mazzoni EB+48hrDox(iAscl1.V5) Neurod4.Fisher Ainv15(iAscl1.V5);1;bowtie_unique	Signal	READDB	Neurod4_iAscl1_48hr	1
+Mazzoni EB+48hrDox(iAscl1.V5) Neurod4.Fisher Ainv15(iAscl1.V5);2;bowtie_unique	Signal	READDB	Neurod4_iAscl1_48hr	2
+Mazzoni EB+12hrDox(iAscl1.V5) Input Ainv15(iAscl1.V5);1;bowtie_unique	Control	READDB	Neurod4_iAscl1_48hr

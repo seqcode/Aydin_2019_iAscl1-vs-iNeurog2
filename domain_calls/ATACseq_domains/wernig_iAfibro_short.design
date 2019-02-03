@@ -1,0 +1,6 @@
+Wernig MEF Input C57BL6;1;bowtie_unique	control	READDB
+Wernig MEF_48hr ATACseq TauEGFP_plus_minus;rep1;bowtie2_unique	signal	READDB	mef	1
+Wernig MEF+Ascl1_48hr ATACseq TauEGFP_plus_minus;B1_rep1;bowtie2_unique	signal	READDB	mef+48h	1
+Wernig MEF+Ascl1_48hr ATACseq TauEGFP_plus_minus;B1_rep2;bowtie2_unique	signal	READDB	mef+48h	1
+Wernig MEF+Ascl1_48hr ATACseq TauEGFP_plus_minus;B2_rep1;bowtie2_unique	signal	READDB	mef+48h	2
+Wernig MEF+Ascl1_48hr ATACseq TauEGFP_plus_minus;B2_rep2;bowtie2_unique	signal	READDB	mef+48h	2

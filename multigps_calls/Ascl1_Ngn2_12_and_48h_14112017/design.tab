@@ -1,0 +1,14 @@
+Mazzoni EB+12hrDox(iAscl1.V5) Ascl1 Ainv15(iAscl1.V5);1;bowtie_unique	Signal	READDB	EB+12hr_iA_Ascl1	1
+Mazzoni EB+12hrDox(iAscl1.V5) Ascl1 Ainv15(iAscl1.V5);2;bowtie_unique	Signal	READDB	EB+12hr_iA_Ascl1	2
+Mazzoni EB+12hrDox(iAscl1.V5) Ascl1 Ainv15(iAscl1.V5);3;bowtie_unique	Signal	READDB	EB+12hr_iA_Ascl1	3
+Mazzoni EB+48hrDox(iAscl1.V5) Ascl1.ABCAM Ainv15(iAscl1.V5);1;bowtie_unique	Signal	READDB	EB+48hr_iA_Ascl1	1
+Mazzoni EB+48hrDox(iAscl1.V5) Ascl1.ABCAM Ainv15(iAscl1.V5);2;bowtie_unique	Signal	READDB	EB+48hr_iA_Ascl1	2
+Mazzoni EB+12hrDox(iAscl1.V5) Input Ainv15(iAscl1.V5);1;bowtie_unique	Control	READDB	EB+12hr_iA_Ascl1
+Mazzoni EB+12hrDox(iAscl1.V5) Input Ainv15(iAscl1.V5);1;bowtie_unique	Control	READDB	EB+48hr_iA_Ascl1
+Mazzoni EB+12hrDox(iFlag.Ngn2) Ngn2 Ainv15(iFlag.Ngn2);1;bowtie_unique	Signal	READDB	EB+12hr_iN_Ngn2	1
+Mazzoni EB+12hrDox(iFlag.Ngn2) Ngn2 Ainv15(iFlag.Ngn2);2;bowtie_unique	Signal	READDB	EB+12hr_iN_Ngn2	2
+Mazzoni EB+12hrDox(iFlag.Ngn2) Ngn2 Ainv15(iFlag.Ngn2);3;bowtie_unique	Signal	READDB	EB+12hr_iN_Ngn2	3
+Mazzoni EB+48hrDox(iFlag.Ngn2) Ngn2 Ainv15(iFlag.Ngn2);1;bowtie_unique	Signal	READDB	EB+48hr_iN_Ngn2	1
+Mazzoni EB+48hrDox(iFlag.Ngn2) Ngn2 Ainv15(iFlag.Ngn2);2;bowtie_unique	Signal	READDB	EB+48hr_iN_Ngn2	2
+Mazzoni EB+12hrDox(iFlag.Ngn2) Input Ainv15(iFlag.Ngn2);1;bowtie_unique	Control	READDB	EB+12hr_iN_Ngn2
+Mazzoni EB+12hrDox(iFlag.Ngn2) Input Ainv15(iFlag.Ngn2);1;bowtie_unique	Control	READDB	EB+48hr_iN_Ngn2

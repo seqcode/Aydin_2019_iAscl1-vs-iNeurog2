@@ -1,0 +1,6 @@
+Mazzoni EB+48hrDox(iAscl1.V5) ATACseq Ainv15(iAscl1.V5);1;bowtie2_unique	Signal	READDB	ia48h	1
+Mazzoni EB+48hrDox(iAscl1.V5) ATACseq Ainv15(iAscl1.V5);2;bowtie2_unique	Signal	READDB	ia48h	2
+Wernig MEF+Ascl1_48hr ATACseq TauEGFP_plus_minus;B1_rep1;bowtie2_unique	signal	READDB	mef+48h	1
+Wernig MEF+Ascl1_48hr ATACseq TauEGFP_plus_minus;B1_rep2;bowtie2_unique	signal	READDB	mef+48h	1
+Wernig MEF+Ascl1_48hr ATACseq TauEGFP_plus_minus;B2_rep1;bowtie2_unique	signal	READDB	mef+48h	2
+Wernig MEF+Ascl1_48hr ATACseq TauEGFP_plus_minus;B2_rep2;bowtie2_unique	signal	READDB	mef+48h	2

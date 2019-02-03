@@ -1,0 +1,7 @@
+vio = rgb(148,0,211,max=255)
+ind = rgb(75,0,130,max=255)
+blu = rgb(0,0,255,max=255)
+gre = rgb(0,255,0,max=255)
+yel = rgb(255,255,0,max=255)
+ora = rgb(255,127,0,max=255)
+red = rgb(255,0,0,max=255)

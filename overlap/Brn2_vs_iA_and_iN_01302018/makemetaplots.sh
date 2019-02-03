@@ -1,0 +1,3 @@
+awk 'NR==FNR{$A[$1];next}($1 in A){print $1}' Brn2_ia_gt_in.peaks ~/group/projects/es/iAscl1_iNgn2/multigps_calls/BRN2_27072017/BRN2_27072017_multigps/BRN2_27072017_multigps_Brn2_iAscl1_48hr.events > brn2_peaks.ordered
+awk 'NR==FNR{$A[$1];next}($1 in A){print $1}' Brn2_ia_in_shared.peaks ~/group/projects/es/iAscl1_iNgn2/multigps_calls/BRN2_27072017/BRN2_27072017_multigps/BRN2_27072017_multigps_Brn2_iAscl1_48hr.events >> brn2_peaks.ordered
+awk 'NR==FNR{$A[$1];next}($1 in A){print $1}' Brn2_in_gt_ia.peaks ~/group/projects/es/iAscl1_iNgn2/multigps_calls/BRN2_27072017/BRN2_27072017_multigps/BRN2_27072017_multigps_Brn2_iAscl1_48hr.events >> brn2_peaks.ordered

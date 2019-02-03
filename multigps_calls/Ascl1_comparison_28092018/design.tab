@@ -1,0 +1,14 @@
+Mazzoni EB+12hrDox(iAscl1.V5) Ascl1 Ainv15(iAscl1.V5);1;bowtie_unique	Signal	READDB	EB+12hr_iA_Ascl1	1
+Mazzoni EB+12hrDox(iAscl1.V5) Ascl1 Ainv15(iAscl1.V5);2;bowtie_unique	Signal	READDB	EB+12hr_iA_Ascl1	2
+Mazzoni EB+12hrDox(iAscl1.V5) Ascl1 Ainv15(iAscl1.V5);3;bowtie_unique	Signal	READDB	EB+12hr_iA_Ascl1	3
+Mazzoni EB+48hrDox(iAscl1.V5) Ascl1.ABCAM Ainv15(iAscl1.V5);1;bowtie_unique	Signal	READDB	EB+48hr_iA_Ascl1	1
+Mazzoni EB+48hrDox(iAscl1.V5) Ascl1.ABCAM Ainv15(iAscl1.V5);2;bowtie_unique	Signal	READDB	EB+48hr_iA_Ascl1	2
+Wernig MEF(+d2_lv.iAscl1.Brn2.Myt1l+Dox) Ascl1 C57BL6;1;bowtie_unique	Signal	READDB	Wernig_Ascl1_+d2_iBAM	1
+Wernig MEF(+d2_lv.iAscl1.Brn2.Myt1l+Dox) Ascl1 C57BL6;2;bowtie_unique	Signal	READDB	Wernig_Ascl1_+d2_iBAM	2
+Johnson Dox-24hESCs[Ascl1] Ascl1 ESCs;1;bowtie_unique	Signal	READDB	Johnson_Ascl1_24hrES	1
+Mazzoni EB+12hrDox(iAscl1.V5) Input Ainv15(iAscl1.V5);1;bowtie_unique	Control	READDB	EB+12hr_iA_Ascl1
+Mazzoni EB+12hrDox(iAscl1.V5) Input Ainv15(iAscl1.V5);1;bowtie_unique	Control	READDB	EB+48hr_iA_Ascl1
+Wernig MEF(+d2_lv.iAscl1.Brn2.Myt1l+Dox) Input C57BL6;1;bowtie_unique	Control	READDB	Wernig_Ascl1_+d2_iBAM	1
+Wernig MEF(+d2_lv.iAscl1.Brn2.Myt1l+Dox) Input C57BL6;2;bowtie_unique	Control	READDB	Wernig_Ascl1_+d2_iBAM	2
+Johnson Dox-24hESCs[Ascl1] Input ESCs;1;bowtie_unique	Control	READDB	Johnson_Ascl1_24hrES	1
+

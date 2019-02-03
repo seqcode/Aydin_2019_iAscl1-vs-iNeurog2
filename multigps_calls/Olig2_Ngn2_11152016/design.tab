@@ -1,0 +1,6 @@
+Mazzoni EB+12hrDox(iFlag.Ngn2) Flag.Ngn2 Ainv15(iFlag.Ngn2);1;bowtie_unique	Signal	READDB	EB+12hr_iN_Ngn2	1
+Mazzoni EB+12hrDox(iFlag.Ngn2) Flag.Ngn2 Ainv15(iFlag.Ngn2);2;bowtie_unique	Signal	READDB	EB+12hr_iN_Ngn2	2
+Mazzoni EB+12hrDox(iFlag.Ngn2) Input Ainv15(iFlag.Ngn2);1;bowtie_unique	Control	READDB
+ES2MN Day4(iOlig2.V5+Dox) iOlig2.V5 Ainv15_iOlig2.V5;1;bowtie_unique	Signal	READDB	EB+d4_iO_Olig2	1
+ES2MN Day4(iOlig2.V5+Dox) iOlig2.V5 Ainv15_iOlig2.V5;2;bowtie_unique	Signal	READDB	EB+d4_iO_Olig2	2
+ES2MN Day4(iOlig2.V5+Dox) iOlig2.V5 Ainv15_iOlig2.V5;3;bowtie_unique	Signal	READDB	EB+d4_iO_Olig2	3

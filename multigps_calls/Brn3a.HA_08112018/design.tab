@@ -1,0 +1,9 @@
+Mazzoni EB+48hrDox(iAscl1.V5.TRE.Brn3a.HA) Ascl1 Ainv15(iAscl1.V5.TRE.Brn3a.HA);1;bowtie_unique	Signal	READDB	Ascl1_iAscl1.iBrn3a_48hr	1
+Mazzoni EB+48hrDox(iAscl1.V5.TRE.Brn3a.HA) Brn3a.HA Ainv15(iAscl1.V5.TRE.Brn3a.HA);1;bowtie_unique	Signal	READDB	Brn3a.HA_iAscl1.iBrn3a_48hr	1
+Mazzoni EB+48hrDox(iNgn2.TRE.Brn3a.HA) Ngn2 Ainv15(iNgn2.TRE.Brn3a.HA);1;bowtie_unique	Signal	READDB	Ngn2_iNgn2.iBrn3a_48hr	1
+Mazzoni EB+48hrDox(iNgn2.TRE.Brn3a.HA) Brn3a.HA Ainv15(iNgn2.TRE.Brn3a.HA);1;bowtie_unique	Signal	READDB	Brn3a.HA_iNgn2.iBrn3a_48hr	1
+Mazzoni EB+48hrDox(iAscl1.V5.TRE.Brn3a.HA) Input Ainv15(iAscl1.V5.TRE.Brn3a.HA);1;bowtie_unique	Control	READDB	Brn3a.HA_iAscl1.Brn3a_48hr
+Mazzoni EB+48hrDox(iNgn2.TRE.Brn3a.HA) Input Ainv15(iNgn2.TRE.Brn3a.HA);1;bowtie_unique	Control	READDB	Brn3a.HA_iNgn2.Brn3a_48hr
+Mazzoni EB+48hrDox(iAscl1.V5.TRE.Brn3a.HA) Input Ainv15(iAscl1.V5.TRE.Brn3a.HA);1;bowtie_unique Control READDB  Ascl1_iAscl1.Brn3a_48hr
+Mazzoni EB+48hrDox(iNgn2.TRE.Brn3a.HA) Input Ainv15(iNgn2.TRE.Brn3a.HA);1;bowtie_unique Control READDB  Ngn2_iNgn2.Brn3a_48hr
+

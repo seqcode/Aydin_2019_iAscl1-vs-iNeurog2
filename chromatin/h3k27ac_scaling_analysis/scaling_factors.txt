@@ -1,0 +1,7 @@
+	group	lib.size	norm.factors	lib_size_per_million
+K27ac_EB_1_signal	1	6399574	0.9315147	5.9613
+K27ac_EB_2_signal	1	1536511	1.0455276	1.60646
+K27ac_iA_48hr_1_signal	1	3690724	0.9541370	3.52146
+K27ac_iA_48hr_2_signal	1	2863769	0.9646171	2.76244
+K27ac_iN_48hr_1_signal	1	3329569	1.0730124	3.57267
+K27ac_iN_48hr_2_signal	1	4260990	1.0396912	4.43011

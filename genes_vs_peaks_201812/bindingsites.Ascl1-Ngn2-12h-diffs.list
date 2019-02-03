@@ -1,0 +1,7 @@
+/gpfs/group/sam77/default/projects/es/iAscl1_iNgn2/diffTFs/iAscl1-12h_vs_iNgn2-12h_top10K_01302018/Ascl1-12hr_gt_Ngn2-12hr_inTop10k.peaks	AgtN-12
+/gpfs/group/sam77/default/projects/es/iAscl1_iNgn2/diffTFs/iAscl1-12h_vs_iNgn2-12h_top10K_01302018/Ngn2-12hr_shared_Ascl1-12hr_inTop10k.peaks	shared-12
+/gpfs/group/sam77/default/projects/es/iAscl1_iNgn2/diffTFs/iAscl1-12h_vs_iNgn2-12h_top10K_01302018/Ngn2-12hr_gt_Ascl1-12hr_inTop10k.peaks	NgtA-12
+/gpfs/group/sam77/default/projects/es/iAscl1_iNgn2/chromatin/activity_classes/iAscl1-12hr_iNgn2-12hr_EB-activity-classes/Ascl1-12hr_gt_Ngn2-12hr_inTop10k_Active_probGtePt8.peaks	AgtN-12-active
+/gpfs/group/sam77/default/projects/es/iAscl1_iNgn2/chromatin/activity_classes/iAscl1-12hr_iNgn2-12hr_EB-activity-classes/Ascl1-12hr_gt_Ngn2-12hr_inTop10k_Inactive_probGtePt8.peaks	AgtN-12-inactive
+/gpfs/group/sam77/default/projects/es/iAscl1_iNgn2/chromatin/activity_classes/iAscl1-12hr_iNgn2-12hr_EB-activity-classes/Ngn2-12hr_gt_Ascl1-12hr_inTop10k_Active_probGtePt8.peaks	NgtA-12-active
+/gpfs/group/sam77/default/projects/es/iAscl1_iNgn2/chromatin/activity_classes/iAscl1-12hr_iNgn2-12hr_EB-activity-classes/Ngn2-12hr_gt_Ascl1-12hr_inTop10k_Inactive_probGtePt8.peaks	NgtA-12-inactive

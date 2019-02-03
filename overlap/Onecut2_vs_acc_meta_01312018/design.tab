@@ -1,0 +1,14 @@
+Ohler EB ATACseq Ainv15(iNgn2.Isl1.Lhx3.V5);1;bowtie2_unique	Signal	READDB	0h	1
+Ohler EB ATACseq Ainv15(iNgn2.Isl1.Lhx3.V5);2;bowtie2_unique	Signal	READDB	0h	2
+Mazzoni EB+12hrDox(iAscl1.V5) ATACseq Ainv15(iAscl1.V5);1;bowtie2_unique	Signal	READDB	ia12h	1
+Mazzoni EB+12hrDox(iAscl1.V5) ATACseq Ainv15(iAscl1.V5);2;bowtie2_unique	Signal	READDB	ia12h	2
+Mazzoni EB+48hrDox(iAscl1.V5) ATACseq Ainv15(iAscl1.V5);1;bowtie2_unique	Signal	READDB	ia48h	1
+Mazzoni EB+48hrDox(iAscl1.V5) ATACseq Ainv15(iAscl1.V5);2;bowtie2_unique	Signal	READDB	ia48h	2
+Mazzoni EB+12hrDox(iFlag.Ngn2) ATACseq Ainv15(iFlag.Ngn2);1;bowtie2_unique	Signal	READDB	in12h	1
+Mazzoni EB+12hrDox(iFlag.Ngn2) ATACseq Ainv15(iFlag.Ngn2);2;bowtie2_unique	Signal	READDB	in12h	2
+Mazzoni EB+48hrDox(iFlag.Ngn2) ATACseq Ainv15(iFlag.Ngn2);1;bowtie2_unique	Signal	READDB	in48h	1
+Mazzoni EB+48hrDox(iFlag.Ngn2) ATACseq Ainv15(iFlag.Ngn2);2;bowtie2_unique	Signal	READDB	in48h	2
+Mazzoni EB+12hrDox(iAscl1[bHLH:Ngn2].HA) ATACseq Ainv15(iAscl1[bHLH:Ngn2].HA);1;bowtie2_unique	Signal	READDB	ian12h	1
+Mazzoni EB+12hrDox(iAscl1[bHLH:Ngn2].HA) ATACseq Ainv15(iAscl1[bHLH:Ngn2].HA);2;bowtie2_unique	Signal	READDB	ian12h	2
+Mazzoni EB+48hrDox(iAscl1[bHLH:Ngn2].HA) ATACseq Ainv15(iAscl1[bHLH:Ngn2].HA);1;bowtie2_unique	Signal	READDB	ian48h	1
+Mazzoni EB+48hrDox(iAscl1[bHLH:Ngn2].HA) ATACseq Ainv15(iAscl1[bHLH:Ngn2].HA);2;bowtie2_unique	Signal	READDB	ian48h	2

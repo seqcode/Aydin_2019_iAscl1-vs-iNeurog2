@@ -1,0 +1,6 @@
+Mazzoni EB+48hrDox(iAscl1.V5) Ebf2 Ainv15(iAscl1.V5);1;bowtie_unique	Signal	READDB	Ebf2_iAscl1_48hr	1
+Mazzoni EB+48hrDox(iAscl1.V5) Ebf2 Ainv15(iAscl1.V5);2;bowtie_unique	Signal	READDB	Ebf2_iAscl1_48hr	2
+Mazzoni EB+48hrDox(iFlag.Ngn2) Ebf2 Ainv15(iFlag.Ngn2);1;bowtie_unique	Signal	READDB	Ebf2_iNgn2_48hr	1
+Mazzoni EB+48hrDox(iFlag.Ngn2) Ebf2 Ainv15(iFlag.Ngn2);2;bowtie_unique	Signal	READDB	Ebf2_iNgn2_48hr	2
+Mazzoni EB+12hrDox(iAscl1.V5) Input Ainv15(iAscl1.V5);1;bowtie_unique	Control	READDB	Ebf2_iAscl1_48hr
+Mazzoni EB+12hrDox(iFlag.Ngn2) Input Ainv15(iFlag.Ngn2);1;bowtie_unique	Control	READDB	Ebf2_iNgn2_48hr

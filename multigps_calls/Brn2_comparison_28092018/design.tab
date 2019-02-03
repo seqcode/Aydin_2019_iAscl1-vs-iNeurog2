@@ -1,0 +1,7 @@
+Mazzoni EB+48hrDox(iAscl1.V5) Brn2 Ainv15(iAscl1.V5);1;bowtie_unique	Signal	READDB	Brn2_iAscl1_48hr	1
+Mazzoni EB+48hrDox(iAscl1.V5) Brn2 Ainv15(iAscl1.V5);2;bowtie_unique	Signal	READDB	Brn2_iAscl1_48hr	2
+Wernig MEF(+d2_lv.iAscl1.Brn2.Myt1l+Dox) Brn2 C57BL6;1;bowtie_unique	Signal	READDB	Wernig_Brn2_+d2iBAM	1
+Wernig MEF(+d2_lv.iAscl1.Brn2.Myt1l+Dox) Input C57BL6;1;bowtie_unique	Control	READDB	Wernig_Brn2_+d2iBAM
+Mazzoni EB+12hrDox(iAscl1.V5) Input Ainv15(iAscl1.V5);1;bowtie_unique	Control	READDB	Brn2_iAscl1_48hr
+Wernig NP Brn2 C57BL6;1;bowtie_unique	Signal	READDB	Wernig_Brn2_NP	1
+Wernig NP Input C57BL6;1;bowtie_unique	Control	READDB	Wernig_Brn2_NP

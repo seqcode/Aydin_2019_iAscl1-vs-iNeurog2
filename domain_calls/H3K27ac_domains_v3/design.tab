@@ -1,0 +1,13 @@
+Mazzoni EB+48hrDox(iAscl1.V5) H3K27ac Ainv15(iAscl1.V5);1;bowtie_unique	Signal	READDB	K27ac_iA_48hr	1
+Mazzoni EB+48hrDox(iAscl1.V5) H3K27ac Ainv15(iAscl1.V5);2;bowtie_unique	Signal	READDB	K27ac_iA_48hr	2
+Mazzoni EB+48hrDox(iFlag.Ngn2) H3K27ac Ainv15(iFlag.Ngn2);1;bowtie_unique	Signal	READDB	K27ac_iN_48hr	1
+Mazzoni EB+48hrDox(iFlag.Ngn2) H3K27ac Ainv15(iFlag.Ngn2);2;bowtie_unique	Signal	READDB	K27ac_iN_48hr	2
+Mazzoni EB+48hrDox(iFlag.Ngn2) H3K27me3 Ainv15(iFlag.Ngn2);1;bowtie_unique	Signal	READDB	K27me3_iN_48hr	1	
+Mazzoni EB+48hrDox(iFlag.Ngn2) H3K27me3 Ainv15(iFlag.Ngn2);2;bowtie_unique	Signal	READDB	K27me3_iN_48hr	2
+Mazzoni EB+48hrDox(iAscl1.V5) H3K27me3 Ainv15(iAscl1.V5);1;bowtie_unique	Signal	READDB	K27me3_iA_48hr	1
+Mazzoni EB+48hrDox(iAscl1.V5) H3K27me3 Ainv15(iAscl1.V5);2;bowtie_unique	Signal	READDB	K27me3_iA_48hr	2
+Mazzoni EB+12hrDox(iFlag.Ngn2) Input Ainv15(iFlag.Ngn2);1;bowtie_unique	Control	READDB
+Mazzoni EB+12hrDox(iAscl1.V5) Input Ainv15(iAscl1.V5);1;bowtie_unique	Control	READDB
+Mazzoni EB H3K27ac Ainv15(iNgn2.Isl1.Lhx3.V5);1;bowtie_unique	Signal	READDB	K27ac_EB	1
+Mazzoni EB H3K27ac Ainv15(iNgn2.Isl1.Lhx3.V5);2;bowtie_unique	Signal	READDB	K27ac_EB	2
+Mazzoni EB Input Ainv15(iNgn2.Isl1.Lhx3.V5);1;bowtie_unique	Control	READDB	K27ac_EB

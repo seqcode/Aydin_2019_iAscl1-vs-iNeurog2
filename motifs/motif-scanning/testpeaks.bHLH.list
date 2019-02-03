@@ -1,0 +1,7 @@
+Ascl1-48hr-top10k	/gpfs/group/sam77/default/projects/es/iAscl1_iNgn2/multigps_calls/Ascl1_Ngn2_12_and_48h_14112017/Ascl1_Ngn2_12_and_48_14112017/Ascl1_Ngn2_12_and_48_14112017_EB+48hr_iA_Ascl1_top10k.events
+Ngn2-48hr-top10k	/gpfs/group/sam77/default/projects/es/iAscl1_iNgn2/multigps_calls/Ascl1_Ngn2_12_and_48h_14112017/Ascl1_Ngn2_12_and_48_14112017/Ascl1_Ngn2_12_and_48_14112017_EB+48hr_iN_Ngn2_top10k.events
+Ascl1-12hr-top10k	/gpfs/group/sam77/default/projects/es/iAscl1_iNgn2/multigps_calls/Ascl1_Ngn2_12_and_48h_14112017/Ascl1_Ngn2_12_and_48_14112017/Ascl1_Ngn2_12_and_48_14112017_EB+12hr_iA_Ascl1_top10k.events
+Ngn2-12hr-top10k	/gpfs/group/sam77/default/projects/es/iAscl1_iNgn2/multigps_calls/Ascl1_Ngn2_12_and_48h_14112017/Ascl1_Ngn2_12_and_48_14112017/Ascl1_Ngn2_12_and_48_14112017_EB+48hr_iN_Ngn2_top10k.events
+A-gt-N-12hr-top10k	/gpfs/group/sam77/default/projects/es/iAscl1_iNgn2/diffTFs/iAscl1-12h_vs_iNgn2-12h_top10K_01302018/Ascl1-12hr_gt_Ngn2-12hr_inTop10k.peaks
+N-gt-A-12hr-top10k	/gpfs/group/sam77/default/projects/es/iAscl1_iNgn2/diffTFs/iAscl1-12h_vs_iNgn2-12h_top10K_01302018/Ngn2-12hr_gt_Ascl1-12hr_inTop10k.peaks
+N-shared-A-12hr-top10k	/gpfs/group/sam77/default/projects/es/iAscl1_iNgn2/diffTFs/iAscl1-12h_vs_iNgn2-12h_top10K_01302018/Ngn2-12hr_shared_Ascl1-12hr_inTop10k.peaks

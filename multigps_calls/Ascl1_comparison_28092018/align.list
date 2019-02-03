@@ -1,0 +1,13 @@
+#FastqFile(s)	aligner	genome	exptType	lab	exptCond	exptTarget	cellLine	rep	pubSrc	pubDBID	collabExptID	collabAlignID	exptNotes
+HL2NTBGX3_n01_ba99.fastq	bowtie_unique	mm9,mm10	CHIPSEQ	Mazzoni	EB+24hrDox(iAscl1.V5)	Neurod4	Ainv15(iAscl1.V5)	1	UNPUB	UNPUB	ba99	ba99	ab:ab90484
+HL2NTBGX3_n01_ba100.fastq	bowtie_unique	mm9,mm10	CHIPSEQ	Mazzoni	EB+24hrDox(iAscl1.V5)	Neurod4	Ainv15(iAscl1.V5)	2	UNPUB	UNPUB	ba100	ba100	ab:ab90484
+HL2NTBGX3_n01_ba101.fastq	bowtie_unique	mm9,mm10	CHIPSEQ	Mazzoni	EB+24hrDox(iAscl1.V5)	Brn2	Ainv15(iAscl1.V5)	1	UNPUB	UNPUB	ba101	ba101	ab:GoatSC-60
+HL2NTBGX3_n01_ba102.fastq	bowtie_unique	mm9,mm10	CHIPSEQ	Mazzoni	EB+24hrDox(iAscl1.V5)	Brn2	Ainv15(iAscl1.V5)	2	UNPUB	UNPUB	ba102	ba102	ab:GoatSC-60
+HL2NTBGX3_n01_ba103.fastq	bowtie_unique	mm9,mm10	CHIPSEQ	Mazzoni	EB+24hrDox(iFlag.Ngn2)	Neurod4	Ainv15(iFlag.Ngn2)	1	UNPUB	UNPUB	ba103	ba103	ab:ab90484	
+HL2NTBGX3_n01_ba104.fastq	bowtie_unique	mm9,mm10	CHIPSEQ	Mazzoni	EB+24hrDox(iFlag.Ngn2)	Neurod4	Ainv15(iFlag.Ngn2)	2	UNPUB	UNPUB	ba104	ba104	ab:ab90484
+HL2NTBGX3_n01_ba105.fastq	bowtie_unique	mm9,mm10	CHIPSEQ	Mazzoni	EB+24hrDox(iFlag.Ngn2)	Brn2	Ainv15(iFlag.Ngn2)	1	UNPUB	UNPUB	ba105	ba105	ab:GoatSC-60
+HL2NTBGX3_n01_ba106.fastq	bowtie_unique	mm9,mm10	CHIPSEQ	Mazzoni	EB+24hrDox(iFlag.Ngn2)	Brn2	Ainv15(iFlag.Ngn2)	2	UNPUB	UNPUB	ba106	ba106	ab:GoatSC-60
+HL2NTBGX3_n01_ba107.fastq	bowtie_unique	mm9,mm10	CHIPSEQ	Mazzoni	EB+48hrDox(iFlag.Ngn2)	Brn2	Ainv15(iFlag.Ngn2)	3	UNPUB	UNPUB	ba107	ba107
+HL2NTBGX3_n01_ba108.fastq	bowtie_unique	mm9,mm10	CHIPSEQ	Mazzoni	EB+48hrDox(iFlag.Ngn2)	Ngn2	Ainv15(iFlag.Ngn2)	2	UNPUB	UNPUB	ba108	ba108	ab:sc-19233
+HL2NTBGX3_n01_ba109.fastq	bowtie_unique	mm9,mm10	CHIPSEQ	Mazzoni	EB+24hrDox(iAscl1.V5)	Ebf2	Ainv15(iAscl1.V5)	1	UNPUB	UNPUB	ba109	ba109	ab:RandDSheepAF7006
+HL2NTBGX3_n01_ba110.fastq	bowtie_unique	mm9,mm10	CHIPSEQ	Mazzoni	EB+24hrDox(iAscl1.V5)	Ebf2	Ainv15(iAscl1.V5)	2	UNPUB	UNPUB	ba110	ba110	ab:RandDSheepAF7006
